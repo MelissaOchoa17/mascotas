@@ -15,7 +15,7 @@ Esta página web contiene información sobre los pingüinos, sus diferentes espe
 - **CSS3:** Para el diseño y el estilo.
 
 ## Vista previa del proyecto
-![Demo](imagenes/vista_previa.png)
+![Demo](img/vista_previa.png)
 
 ### Contacto
 Si te gustaria invitarme a colaborar en un proyecto, contáctame a mi córreo meli178a@gmail.com o escribeme por [LinkedIn](https://www.linkedin.com/in/melissa-ochoa17/)
